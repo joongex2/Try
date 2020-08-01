@@ -2,7 +2,7 @@
   "name": "try",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joongex2.github.io/try",
+  "homepage": "http://joongex2.github.io/Try",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
